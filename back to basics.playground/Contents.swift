@@ -11,3 +11,23 @@ for name in friendsList {
         print("not Monica")
     }
 }
+
+
+var myAge = 24
+
+switch myAge {
+case 1...10:
+    print("drink Milk")
+case 11...18:
+    print("drink Soda")
+case 19...25:
+    print("drink Red Bull")
+case 26...30:
+    print("drink Cocktails")
+case 31...100:
+    print("drink Water")
+default:
+    print("Are you still alive?")
+}
+
+
