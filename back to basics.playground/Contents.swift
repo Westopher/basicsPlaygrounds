@@ -57,3 +57,39 @@ func printAlbumRelease(_ name: String, _ year: Int) {
 }
 
 printAlbumRelease("Fearless", 2008)
+
+func min2(a: Int, b: Int) -> Int {
+    if a < b {
+        return a
+    } else {
+        b < a
+        return b
+    }
+}
+
+min2(a : 5, b : 10)
+
+
+func lastDigit(_ number: Int) -> Int {
+    return number % 10
+}
+
+lastDigit(567789)
+lastDigit(50)
+
+
+//Write a function named first that takes an Int named N and returns an array with the first N numbers starting from 1. Use _ to ignore the external parameter name.
+
+func first(_ N: Int) -> [Int] {
+    var numbers:[Int] = []
+    for i in 1...N {
+        numbers.append(i)
+    }
+    
+    return numbers
+}
+
+first(10)
+
+//this is a closure
+var double: (Int) -> (Int) = { x in return 2 * x }

@@ -3,17 +3,27 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=184&amp;EndingColumnNumber=0&amp;EndingLineNumber=9&amp;StartingColumnNumber=9&amp;StartingLineNumber=8&amp;Timestamp=565048378.2010061"
+         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=184&amp;EndingColumnNumber=0&amp;EndingLineNumber=9&amp;StartingColumnNumber=9&amp;StartingLineNumber=8&amp;Timestamp=565051050.667622"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=19&amp;CharacterRangeLoc=230&amp;EndingColumnNumber=0&amp;EndingLineNumber=11&amp;StartingColumnNumber=9&amp;StartingLineNumber=10&amp;Timestamp=565048378.201299"
+         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=19&amp;CharacterRangeLoc=230&amp;EndingColumnNumber=0&amp;EndingLineNumber=11&amp;StartingColumnNumber=9&amp;StartingLineNumber=10&amp;Timestamp=565051050.667807"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=40&amp;CharacterRangeLoc=987&amp;EndingColumnNumber=0&amp;EndingLineNumber=56&amp;StartingColumnNumber=5&amp;StartingLineNumber=55&amp;Timestamp=565048378.201537"
+         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=40&amp;CharacterRangeLoc=987&amp;EndingColumnNumber=0&amp;EndingLineNumber=56&amp;StartingColumnNumber=5&amp;StartingLineNumber=55&amp;Timestamp=565051050.667894"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=1260&amp;EndingColumnNumber=0&amp;EndingLineNumber=74&amp;StartingColumnNumber=12&amp;StartingLineNumber=73&amp;Timestamp=565051050.667974"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=420&amp;CharacterRangeLoc=1275&amp;EndingColumnNumber=0&amp;EndingLineNumber=95&amp;StartingColumnNumber=1&amp;StartingLineNumber=76&amp;Timestamp=565051050.668063"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
