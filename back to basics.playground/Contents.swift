@@ -30,4 +30,23 @@ default:
     print("Are you still alive?")
 }
 
+var numberOfRoll = 0
 
+var myFood = ["Turkey", "Roll", "Stuffing", "Pie", "Potato", "Green Beans", "Brussel Sprouts", "Lasagna", "Roll"]
+
+for food in myFood {
+    
+switch food {
+case "Lasagna":
+    print("Ate lasagna")
+case "Roll":
+    print("Ate Rolls")
+    numberOfRoll += 1
+case "Stuffing":
+    print("Ate stuffing")
+default:
+    print("Not lasagna, roll, or stuffing")
+}
+}
+
+numberOfRoll
