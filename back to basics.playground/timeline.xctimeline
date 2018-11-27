@@ -3,12 +3,17 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=184&amp;EndingColumnNumber=0&amp;EndingLineNumber=9&amp;StartingColumnNumber=9&amp;StartingLineNumber=8&amp;Timestamp=565039240.9713989"
+         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=184&amp;EndingColumnNumber=0&amp;EndingLineNumber=9&amp;StartingColumnNumber=9&amp;StartingLineNumber=8&amp;Timestamp=565048378.2010061"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=19&amp;CharacterRangeLoc=230&amp;EndingColumnNumber=0&amp;EndingLineNumber=11&amp;StartingColumnNumber=9&amp;StartingLineNumber=10&amp;Timestamp=565039240.971568"
+         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=19&amp;CharacterRangeLoc=230&amp;EndingColumnNumber=0&amp;EndingLineNumber=11&amp;StartingColumnNumber=9&amp;StartingLineNumber=10&amp;Timestamp=565048378.201299"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/westkraemer/Desktop/swiftProjects/basicsPlayground/back%20to%20basics.playground#CharacterRangeLen=40&amp;CharacterRangeLoc=987&amp;EndingColumnNumber=0&amp;EndingLineNumber=56&amp;StartingColumnNumber=5&amp;StartingLineNumber=55&amp;Timestamp=565048378.201537"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>

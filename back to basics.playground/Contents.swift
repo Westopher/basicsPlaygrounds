@@ -50,3 +50,10 @@ default:
 }
 
 numberOfRoll
+
+
+func printAlbumRelease(_ name: String, _ year: Int) {
+    print("\(name) was released in \(year)")
+}
+
+printAlbumRelease("Fearless", 2008)
